@@ -1,10 +1,6 @@
 # Day 1: Solana Hello World (Installation and Troubleshooting)
 
-[Day 1](https://www.rareskills.io/post/hello-world-solana) of [RareSkills Solana Course](https://www.rareskills.io/solana-tutorial).
 
-## Setup
-
-Follow the [RareSkills tutorial](https://www.rareskills.io/post/hello-world-solana) for detailed steps.
 
 1. Install Rust: `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 2. Install Solana CLI: `sh -c "$(curl -sSfL https://release.solana.com/stable/install)"`

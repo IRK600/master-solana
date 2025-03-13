@@ -1,6 +1,6 @@
 # 60-days-of-solana
 
-My attempt at learning [Solana](https://solana.com/) [program (smart contract)](https://solana.com/docs/core/programs) development through [RareSkill's Solana course](https://www.rareskills.io/solana-tutorial).
+My attempt at learning [Solana](https://solana.com/) [program (smart contract)](https://solana.com/docs/core/programs)
 
 > Originally, I was trying to create a single anchor project and add the daily exercises under `programs` (`programs/day_1`, `programs/day_2`, `programs/day_x`), but this made following along with the tutorial harder (longer running tests, Anchor not supporting deployment/testing of individual programs out of the box).
 
@@ -68,7 +68,6 @@ Here is a list of common issues that I've encountered while going through the tu
 
 ## References
 
-- [RareSkill's Solana course](https://www.rareskills.io/solana-tutorial)
 - [Solana](https://solana.com/)
 - [What are Solana Programs?](https://solana.com/docs/core/programs)
 - [Anchor](https://www.anchor-lang.com/)
